@@ -1,0 +1,1 @@
+# Analytical_issues_about_COVID-19_statistics-_project-python-
